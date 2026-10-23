@@ -1,11 +1,20 @@
-<div align="center">
-  <img src="./prince-portrait.png" width="350" alt="Prince Kumar - GitHub Profile Portrait">
+<table>
+  <tr>
+    <td width="65%">
+      <h1>Hi, I'm Prince Kumar 👋</h1>
+      <p>Final-year IT student at Parul University, passionate about AI, cloud computing, and full-stack development.</p>
+      <p>🚀 Building real-world projects</p>
+      <p>☁️ Exploring AWS and Google Cloud</p>
+      <p>💻 Learning and growing every day</p>
+    </td>
+    <td width="35%" align="center">
+      <img src="./prince-portrait.png" width="250" alt="Prince Kumar">
+    </td>
+  </tr>
+</table>
 
-  <h1>Hi, I'm Prince Kumar </h1>
-  <p>IT Student | Aspiring Software Engineer | AI & Cloud Computing Enthusiast</p>
-</div>
 
-  <br>🎓 Final-year Information Technology student from India, passionate about building impactful software and exploring the world of AI, Cloud Computing, and Full-Stack Development.<br><br>I'm always curious about how technology solves real-world problems, and I enjoy learning by building projects rather than just reading about them. My goal is to become a skilled Software Engineer with strong expertise in AI and Cloud technologies.<br><br>---<br><br>
+  <br> Final-year Information Technology student from India, passionate about building impactful software and exploring the world of AI, Cloud Computing, and Full-Stack Development.<br><br>I'm always curious about how technology solves real-world problems, and I enjoy learning by building projects rather than just reading about them. My goal is to become a skilled Software Engineer with strong expertise in AI and Cloud technologies.<br><br>---<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/therealtrioss/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/princeyadav-it/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajprincekumar9955@gmail.com) 
