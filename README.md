@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="./prince-portrait.png" width="350" alt="Prince Kumar - GitHub Profile Portrait">
+
+  <h1>Hi, I'm Prince Kumar 👋</h1>
+  <p>IT Student | Aspiring Software Engineer | AI & Cloud Computing Enthusiast</p>
+</div>
+
 <br><br>Hi, I'm **Prince Kumar** 👨‍💻  <br>🎓 Final-year Information Technology student from India, passionate about building impactful software and exploring the world of AI, Cloud Computing, and Full-Stack Development.<br><br>I'm always curious about how technology solves real-world problems, and I enjoy learning by building projects rather than just reading about them. My goal is to become a skilled Software Engineer with strong expertise in AI and Cloud technologies.<br><br>---<br><br>🌱 **I'm currently working on**<br>- 🤖 AI-powered projects and intelligent automation<br>- ☁️ Cloud Computing projects using AWS & Google Cloud<br>
 
 ## 🌐 Socials:
