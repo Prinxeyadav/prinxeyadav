@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/profile-banner.png" width="100%" alt="GitHub Profile Banner" />
+    <img src="assetsprofile-banner.png" width="100%" alt="GitHub Profile Banner" />
 
   <h1>Hi, I'm Prince Yadav </h1>
   <p>IT Student | Aspiring Software Engineer | AI & Cloud Computing Enthusiast</p>
