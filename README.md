@@ -1,17 +1,9 @@
-<table>
-  <tr>
-    <td width="65%">
-      <h1>Hi, I'm Prince Kumar 👋</h1>
-      <p>Final-year IT student at Parul University, passionate about AI, cloud computing, and full-stack development.</p>
-      <p>🚀 Building real-world projects</p>
-      <p>☁️ Exploring AWS and Google Cloud</p>
-      <p>💻 Learning and growing every day</p>
-    </td>
-    <td width="35%" align="center">
-      <img src="./prince-portrait.png" width="250" alt="Prince Kumar">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./prince-portrait.png" width="350" alt="Prince Kumar - GitHub Profile Portrait">
+
+  <h1>Hi, I'm Prince Yadav </h1>
+  <p>IT Student | Aspiring Software Engineer | AI & Cloud Computing Enthusiast</p>
+</div>
 
 
   <br> Final-year Information Technology student from India, passionate about building impactful software and exploring the world of AI, Cloud Computing, and Full-Stack Development.<br><br>I'm always curious about how technology solves real-world problems, and I enjoy learning by building projects rather than just reading about them. My goal is to become a skilled Software Engineer with strong expertise in AI and Cloud technologies.<br><br>---<br><br>
